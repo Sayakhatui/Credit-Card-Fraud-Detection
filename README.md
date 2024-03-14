@@ -44,7 +44,7 @@ FOR DETAILS ON MODEL TRAINIG AND ACCURACY COMPARISONS
 ```
 KNeighbors_model.ipynb
 ```
-## RANDOM FOREST CLASSIFIER -https://github.com/Sayakhatui/Credit-Card-Fraud-Detection/blob/main/random_forest_model.ipynb
+## RANDOM FOREST CLASSIFIER 
 a) Undersampling doesn't work efficiently for Large majority class datasets as it ignore many valuable tuples. But, can be efficient for small majority class datasets
 b) RandomForest works even efficiently for this imbalanced datasets.
 c) RandomForest takes around 10-15 minutes for training.
