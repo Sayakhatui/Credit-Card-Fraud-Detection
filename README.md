@@ -62,4 +62,4 @@ TO RUN THE COMPLETE MODEL :-
 streamlit run final.py
 ```
 3. now add the row of a single transaction except the label part
-4. ## HIT SUBMIT
+4. HIT SUBMIT
