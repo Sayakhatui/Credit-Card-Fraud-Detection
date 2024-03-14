@@ -36,22 +36,31 @@ K-Nearest Neighbors (KNN): KNN is a non-parametric classifier that assigns a cla
 Random Forest: Random Forest is an ensemble classifier that combines multiple decision trees. It reduces overfitting by considering random subsets of data and features, offering high accuracy and robustness. It's applicable in finance, healthcare, and image recognition.
 ### MODEL ACCURACIES AND COMPARISON
 
-## K-NN CLASSIFIER
+## K-NN CLASSIFIER 
 a) k-Neighbors works even efficiently for this imbalanced datasets.
 b) It takes around 3-5 minutes for training.
 c) Maximum Accuracy of 99.967466 %and Macro Average of F1-Score of 1.00 acheived with Oversampling Techniques.
-
-## RANDOM FOREST CLASSIFIER
+FOR DETAILS ON MODEL TRAINIG AND ACCURACY COMPARISONS
+```
+KNeighbors_model.ipynb
+```
+## RANDOM FOREST CLASSIFIER -https://github.com/Sayakhatui/Credit-Card-Fraud-Detection/blob/main/random_forest_model.ipynb
 a) Undersampling doesn't work efficiently for Large majority class datasets as it ignore many valuable tuples. But, can be efficient for small majority class datasets
 b) RandomForest works even efficiently for this imbalanced datasets.
 c) RandomForest takes around 10-15 minutes for training.
 d) Maximum Accuracy of 99.996483% and macro-average of F1-Score of 1.00 acheived with Oversampling technique.
-
+FOR DETAILS ON MODEL TRAINIG AND ACCURACY COMPARISONS
+```
+random_forest_model.ipynb
+```
 ## LOGISTIC REGRESSION
 a) Logistic Regression doesn't work efficiently for this imbalanced datasets.
 b) It takes around 1-2 minutes for training.
 c) Maximum Accuracy of 99.912222% and Macro Average of F1-Score of 0.85 acheived with StandardScaled datasets.
-
+FOR DETAILS ON MODEL TRAINIG AND ACCURACY COMPARISONS
+```
+LOGISTIC_REGRESSSION.ipynb
+```
 ## DEPLOYMENT AND RUNNING 
    ![image](https://github.com/Sayakhatui/Credit-Card-Fraud-Detection/assets/150340995/1cdadd0f-8284-4295-b32f-d3522d539332)
    ![image](https://github.com/Sayakhatui/Credit-Card-Fraud-Detection/assets/150340995/9575a9cf-3d87-400c-9994-829e152e7305)
