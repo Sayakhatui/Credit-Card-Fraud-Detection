@@ -1,5 +1,6 @@
 # Credit-Card-Fraud-Detection
 Supervised learning Based credit Card Fraud Detection and deployed on streamlit
+TO READ THE FULL REPORT AND ANALYSIS READ THE - https://github.com/Sayakhatui/Credit-Card-Fraud-Detection/blob/main/CREDIT%20CARD%20FRAUD%20DETECTION-REPORT.docx
 ##  IMPORTANCE TO DETECTING FRAUDULENT TRANSACTIONS
  Credit Card Fraud Detection is a critical aspect of financial security in the modern world. It involves identifying and preventing unauthorised or fraudulent transactions made using credit cards. With the increasing reliance on digital payments, the risk of fraudulent activities has also escalated. Detecting these activities in real-time is crucial to protect both financial institutions and customers from potential losses. This presentation will delve into various models and techniques used to effectively identify and prevent credit card fraud.  
  
